@@ -1,17 +1,15 @@
 <h1> Badges Earned</h1>
-
 <p>Click on the badge to view credentials.</p>
 
 <!-- HackerRank badges -->
 <a href="https://www.hackerrank.com/GekkoCode" title="HackerRank Profile Link">
   <div>
-    <img src="https://user-images.githubusercontent.com/50470973/205110673-6a722c3c-1d82-4978-9637-aeea3b0ccaf9.png" alt="Problem Solving" width=30%/>
-    <img src="https://user-images.githubusercontent.com/50470973/205111855-6af3fd43-35fd-4632-81d9-1bd8aca40a8c.png" alt="Python" width=30%/>
-    <img src="https://user-images.githubusercontent.com/50470973/205111249-cce81571-44a6-407d-8d85-c9c2f173449e.png" alt="Java" width=30%/>
-    <br>
-    <img src="https://user-images.githubusercontent.com/50470973/205112915-00cb3885-691c-49d2-8e1d-876697604d7c.png" alt="C++" width=30%/>
-    <img src="https://user-images.githubusercontent.com/50470973/205112404-cad9ac8e-e95e-422c-9f1f-dc9916525e90.png" alt="SQL" width=30%/>
-    <img src="https://user-images.githubusercontent.com/50470973/205114777-1fd6946d-ec37-4b43-b2f7-70665dd1a316.png" alt="C" width=30%/>
+    <img src="https://user-images.githubusercontent.com/50470973/205344683-df755ee1-894c-4c70-b25a-8148c1ac8666.png" alt="Problem Solving" width=15% />
+    <img src="https://user-images.githubusercontent.com/50470973/205346265-da6f6203-fc74-4fef-bee7-03ee6d411767.png" alt="Python" width=15% />
+    <img src="https://user-images.githubusercontent.com/50470973/205346274-888918d3-f177-4fed-826c-c69a00e1f4f1.png" alt="Java" width=15% />
+    <img src="https://user-images.githubusercontent.com/50470973/205346673-a3f39bbb-aa06-45cd-8132-55b453705f5a.png" alt="C++" width=15% />
+    <img src="https://user-images.githubusercontent.com/50470973/205346434-f26416c8-3fae-4fbb-8355-e6698f64e644.png" alt="C" width=15% />
+    <img src="https://user-images.githubusercontent.com/50470973/205346425-98a16aae-a45c-45ad-8489-8a3a68b5008c.png" alt="SQL" width=15% />
   </div>
 </a>
 <br>
@@ -20,12 +18,12 @@
 <div>
   <span>
     <a href="https://www.credly.com/badges/a5bf1c74-5c8b-4380-b240-5553722b16d4/public_url" title="Credly AWS certified cloud practitioner">
-      <img src="https://user-images.githubusercontent.com/50470973/205339612-04ac02a2-e45b-44f2-a24f-179c4b52b789.png" alt="aws-certified-cloud-practitioner" width=30%/>
+      <img src="https://user-images.githubusercontent.com/50470973/205339612-04ac02a2-e45b-44f2-a24f-179c4b52b789.png" alt="aws-certified-cloud-practitioner" width=15%/>
     </a>
   </span  
   <span>
     <a href="https://www.credly.com/badges/6185af21-1d3a-4724-824f-3f1156a09b84/public_url" title="Credly AWS partner technical accrediation">
-      <img src="https://user-images.githubusercontent.com/50470973/205339744-97f0c85b-2710-406e-a79c-2925b90d4a7a.png" alt="aws-partner-technical" width=30%/>
+      <img src="https://user-images.githubusercontent.com/50470973/205339744-97f0c85b-2710-406e-a79c-2925b90d4a7a.png" alt="aws-partner-technical" width=15%/>
     </a>
   </span>
 </div>
