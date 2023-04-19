@@ -17,12 +17,17 @@
 <!-- AWS badges -->
 <div>
   <span>
-    <a href="https://www.credly.com/badges/a5bf1c74-5c8b-4380-b240-5553722b16d4/public_url" title="Credly AWS certified cloud practitioner">
+    <a href="https://www.credly.com/badges/fe0c1bcc-c577-4f17-b96e-46935268b3f7/public_url" title="Credly AWS Certified Developer – Associate">
+      <img src="https://user-images.githubusercontent.com/50470973/233102167-86156815-8c25-47fd-acd0-5bdddd92b4ba.png" alt="aws-certified-developer-associate" width=15%/>
+    </a>
+  </span 
+  <span>
+    <a href="https://www.credly.com/badges/a5bf1c74-5c8b-4380-b240-5553722b16d4/public_url" title="Credly AWS Certified Cloud Practitioner">
       <img src="https://user-images.githubusercontent.com/50470973/205339612-04ac02a2-e45b-44f2-a24f-179c4b52b789.png" alt="aws-certified-cloud-practitioner" width=15%/>
     </a>
   </span  
   <span>
-    <a href="https://www.credly.com/badges/6185af21-1d3a-4724-824f-3f1156a09b84/public_url" title="Credly AWS partner technical accrediation">
+    <a href="https://www.credly.com/badges/6185af21-1d3a-4724-824f-3f1156a09b84/public_url" title="Credly AWS Partner Technical Accrediation">
       <img src="https://user-images.githubusercontent.com/50470973/205339744-97f0c85b-2710-406e-a79c-2925b90d4a7a.png" alt="aws-partner-technical" width=15%/>
     </a>
   </span>
