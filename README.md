@@ -18,7 +18,7 @@
 <div>
   <span>
     <a href="https://www.credly.com/badges/fe0c1bcc-c577-4f17-b96e-46935268b3f7/public_url" title="Credly AWS Certified Developer – Associate">
-      <img src="https://user-images.githubusercontent.com/50470973/233102167-86156815-8c25-47fd-acd0-5bdddd92b4ba.png" alt="aws-certified-developer-associate" width=15%/>
+      <img src="https://user-images.githubusercontent.com/50470973/233118146-89f43498-db6d-4174-9a5b-d3f80e9f95af.png" alt="aws-certified-developer-associate" width=15%/>
     </a>
   </span 
   <span>
