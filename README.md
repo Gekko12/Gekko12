@@ -14,13 +14,13 @@
 </a>
 <br>
 
-<!-- AWS badges -->
+<!-- Badges and credentials -->
 <div>
   <span>
     <a href="https://www.credly.com/badges/fe0c1bcc-c577-4f17-b96e-46935268b3f7/public_url" title="Credly AWS Certified Developer – Associate">
       <img src="https://user-images.githubusercontent.com/50470973/233118146-89f43498-db6d-4174-9a5b-d3f80e9f95af.png" alt="aws-certified-developer-associate" width=15%/>
     </a>
-  </span 
+  </span> 
   <span>
     <a href="https://www.credly.com/badges/a5bf1c74-5c8b-4380-b240-5553722b16d4/public_url" title="Credly AWS Certified Cloud Practitioner">
       <img src="https://user-images.githubusercontent.com/50470973/205339612-04ac02a2-e45b-44f2-a24f-179c4b52b789.png" alt="aws-certified-cloud-practitioner" width=15%/>
@@ -31,4 +31,9 @@
       <img src="https://user-images.githubusercontent.com/50470973/205339744-97f0c85b-2710-406e-a79c-2925b90d4a7a.png" alt="aws-partner-technical" width=15%/>
     </a>
   </span>
+  <span>
+    <a href="https://achieve.snowflake.com/b121fd98-943a-4de3-b9e4-3e6e518280e1#gs.g0cw3" title="snowflake developer">
+      <img src="https://github.com/user-attachments/assets/03552ec4-6002-469b-bbdf-ce84674b7314" alt="snowpro-core-snowflake-cloud" width=15%/>
+    </a>
+  </span> 
 </div>
