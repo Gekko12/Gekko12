@@ -36,4 +36,9 @@
       <img src="https://github.com/user-attachments/assets/03552ec4-6002-469b-bbdf-ce84674b7314" alt="snowpro-core-snowflake-cloud" width=15%/>
     </a>
   </span> 
+  <span>
+    <a href="https://learn.microsoft.com/en-us/users/gauravsharma-7801/credentials/33e44c5243560a03" title="Microsoft Certified: Azure Fundamentals">
+      <img src="https://github.com/user-attachments/assets/c5167e73-88df-45da-a7dd-129fd2b6b326" alt="azure-fundamentals-cloud" width=15%/>
+    </a>
+  </span> 
 </div>
